@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/node-tmpl/tmpl-template-README/issues"
   },
-  "homepage": "https://github.com/node-tmpl/tmpl-template-README#readme"
+  "homepage": "https://github.com/node-tmpl/tmpl-template-README#readme",
+  "dependencies": {
+    "@jigsaw/tmpl": "^1.1.0",
+    "inquirer": "^1.0.2",
+    "tmpl-config-user": "0.0.1"
+  }
 }
